@@ -1,1 +1,1 @@
-# dice_for_RPG
+# dice_for_RPG 🎲
